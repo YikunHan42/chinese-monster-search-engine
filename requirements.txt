@@ -1,1 +1,10 @@
 streamlit
+base64
+jina
+docarray
+tqdm
+text2vec
+pandas
+torchvision
+numpy
+os
