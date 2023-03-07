@@ -1,6 +1,6 @@
 import streamlit as st
 import base64
-import os
+# import os
 
 st.markdown("目前收录的妖怪清单如下：")
 
