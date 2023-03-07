@@ -4,7 +4,7 @@ from tqdm import tqdm
 import time
 from text2vec import SentenceModel, EncoderType
 import numpy as np
-import jiagu
+# import jiagu
 import pandas as pd
 # from pandas import convert_df
 
