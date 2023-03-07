@@ -1,0 +1,10 @@
+streamlit
+base64
+
+docarray
+tqdm
+text2vec
+pandas
+torchvision
+numpy
+os
