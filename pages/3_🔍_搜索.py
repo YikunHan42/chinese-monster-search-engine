@@ -47,7 +47,7 @@ with st.sidebar:
         ['妖怪名称', '图片', '原文描述', '种类', '作者', '出处', '朝代', '绘者'],
         ['妖怪名称'])
 
-    st.write('You selected:', options)
+    # st.write('You selected:', options)
     print(type(options))
     flag1_main_text = 1 if '妖怪名称' in options else 0
     flag1_image = 1 if '图片' in options else 0
