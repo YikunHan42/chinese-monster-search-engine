@@ -1,6 +1,6 @@
 streamlit
 base64
-
+jina
 docarray
 tqdm
 text2vec
