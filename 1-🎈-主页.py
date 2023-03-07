@@ -38,7 +38,7 @@ import streamlit as st
 # st.markdown("# 画廊 🎉")
 st.sidebar.markdown("# 说明 :key:")
 
-from docarray import DocumentArray
-
-da = DocumentArray.from_files('./*.jpg')
-da.plot_image_sprites('sprite-img.png')
+# from docarray import DocumentArray
+#
+# da = DocumentArray.from_files('./*.jpg')
+# da.plot_image_sprites('sprite-img.png')
